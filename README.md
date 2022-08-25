@@ -1,8 +1,8 @@
-<img align="center" src="https://readme-typing-svg.herokuapp.com?size=25&color=2296F7&background=C6CBFF00&center=true&vCenter=true&width=500&lines=Hello+there!+I'm+Abdullahi+%F0%9F%91%8B;I+am+a+programmer+%F0%9F%90%B1%E2%80%8D%F0%9F%92%BB;I+am+a+freelancer+%F0%9F%92%B8;I+write+a+lot+of+code+%F0%9F%92%BB" width="80%"/>
+<img align="center" src="https://readme-typing-svg.herokuapp.com?size=25&color=2296F7&background=C6CBFF00&center=true&vCenter=true&width=500&lines=Hello+there!+I'm+Abdullahi+%F0%9F%91%8B;I+am+a+programmer+%F0%9F%90%B1%E2%80%8D%F0%9F%92%BB;I+am+a+problem+solver+%F0%9F%92%B8;I+write+a+lot+of+codes+%F0%9F%92%BB" width="80%"/>
 
 
 
-<h1 align="center">About Me! 😎</h1>
+<p align="center">About Me😎</p>
 ------------------------------------------
 
 
@@ -40,15 +40,15 @@
  ### My Github Stats
 
 <p align="center">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=abdullahiola&show_icons=true />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=abdullahiola&show_icons=true" />
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahiola&show_icons=true&theme=dark&title_color=00b3ff&text_color=ffffff&bg_color=000000&locale=en&layout=compact&hide_border=true" alt="abdullahiola" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahiola&show_icons=true&theme=white&title_color=00b3ff&text_color=dark&locale=en&layout=compact&hide_border=true" alt="abdullahiola" />
 
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahiola&theme=highcontrast&hide_border=true" alt="abdullahiola" />
 
 
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=abdullahiola&bg_color=000000&color=facc15&line=f97316&point=facc15&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=abdullahiola&line=f97316&point=facc15&area_color=white&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
 
  
 </p>
