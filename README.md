@@ -1,4 +1,4 @@
-<img align="center" src="https://readme-typing-svg.herokuapp.com?size=25&color=2296F7&background=C6CBFF00&center=true&vCenter=true&width=500&lines=Hello+there!+I'm+Abdullahi+%F0%9F%91%8B;I+am+a+programmer+%F0%9F%90%B1%E2%80%8D%F0%9F%92%BB;I+am+a+problem+solver+%F0%9F%92%B8;I+write+a+lot+of+codes+%F0%9F%92%BB" width="80%"/>
+<img align="center" src="https://readme-typing-svg.herokuapp.com?size=25&color=2296F7&background=C6CBFF00&center=true&vCenter=true&width=500&lines=Hello+there!+I'm+Abdullahi+%F0%9F%91%8B;I+am+a+programmer+%F0%9F%90%B1%E2%80%8D%F0%9F%92%BB;I+am+a+problem+solver🧠+;I+write+a+clean+codes+%F0%9F%92%BB" width="100%"/>
 
 
 
