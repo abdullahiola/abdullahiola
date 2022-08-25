@@ -40,7 +40,7 @@
  ### My Github Stats
 
 <p align="center">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=abdullahiola&show_icons=true&theme=dark&title_color=00b3ff&text_color=ffffff&bg_color=000000&locale=en&hide_border=true" alt="abdullahiola" />
+<img width="100%" src="(https://github-readme-stats.vercel.app/api?username=abdullahiola&show_icons=true" alt="abdullahiola" />
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahiola&show_icons=true&theme=dark&title_color=00b3ff&text_color=ffffff&bg_color=000000&locale=en&layout=compact&hide_border=true" alt="abdullahiola" />
 
