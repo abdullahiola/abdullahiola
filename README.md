@@ -1,3 +1,5 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=abdullahiola&label=Profile%20views&color=0e75b6&style=flat" alt="Abdullahiola" />
+
 <img align="center" src="https://readme-typing-svg.herokuapp.com?size=25&color=2296F7&background=C6CBFF00&center=true&vCenter=true&width=500&lines=Hello+there!+I'm+Abdullahi+%F0%9F%91%8B;I+am+a+programmer+%F0%9F%90%B1%E2%80%8D%F0%9F%92%BB;I+love+solving+problems🧠+;I+write+clean+codes+%F0%9F%92%BB" width="100%"/>
 
 ------------------------------------------------------------------------------------
