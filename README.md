@@ -1,15 +1,5 @@
 <img align="center" src="https://readme-typing-svg.herokuapp.com?size=25&color=2296F7&background=C6CBFF00&center=true&vCenter=true&width=500&lines=Hello+there!+I'm+Abdullahi+%F0%9F%91%8B;I+am+a+programmer+%F0%9F%90%B1%E2%80%8D%F0%9F%92%BB;I+love+solving+problems🧠+;I+write+clean+codes+%F0%9F%92%BB" width="100%"/>
 
-------------------------------------------------------------------------------------
-
-
-### About Me😎
-
-
-* 🌍  I'm based in Ikorodu,lagos State, Nigeria.
-* ✉️  You can contact me at [abdullahiola89@gmail.com](mailto:abdullahiola89@gmail.com)
-* 🧠  I'm learning React , Solidity and Blockchain tech
-* 🤝  I'm open to collaborating on HTML, CSS and Python(Django) projects!
 
 
 ------------------------------------------------------------------------------------
